@@ -19,6 +19,7 @@ I'm 46 years old. I am a teacher at a school for children with mental disabiliti
 * flexibility and creativity
 * focus on results
 ## Code Example
+Solving my first task about narcissistic numbers on the site codewars.com:
 ```
 function narcissistic(value) {  
   let strValue = value.toString();
